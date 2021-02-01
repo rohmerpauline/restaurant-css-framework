@@ -1,6 +1,6 @@
 # restaurant-css-framework
 
-### Objectif du projet :
+## Objectif du projet :
 
 Créer le site responsive d'un restaurant franchisé fictif à l'aide de Bootstrap. 
 
@@ -19,7 +19,7 @@ Les consignes : Créer 5 pages welcome, menu, pictures, restaurants et contact.
 **Contact** : une page avec un formulaire de contact (prénom, nom, email, sujet du message à l'aide d'une drop-down list, un espace de texte libre et un bouton Envoyer avec une icône).
 
 
-### Mon organisation sur le projet :
+## Mon organisation sur le projet :
 
 Le projet devait être réalisé en 4 jours. 
 
@@ -46,7 +46,7 @@ Quatrième jour :
 ![Pictures](images/Pictures.png) ![Restaurants](images/Aboutus.png)
 ![Contact](images/contact.png)
 
-**Mon brief** : [Chez Mauricette brief](Chez Mauricette - brief.pdf)
+**Mon brief** : [Chez Mauricette brief](https://github.com/rohmerpauline/restaurant-css-framework/blob/main/Chez%20Mauricette%20-%20brief.pdf)
 
 ### Technologies utilisées : 
 
@@ -59,7 +59,7 @@ Pauline Rohmer
 Projet réalisé dans le cadre de la formation développeur web chez [BeCode](https://becode.org/)
 
 
-### Copyrights :
+## Copyrights :
 
 Images [Unsplash](https://unsplash.com)
 
