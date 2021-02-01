@@ -3,7 +3,7 @@
 ### Objectif du projet
 
 
-![Welcome](images/welcome)
+![Welcome](images/welcome.png)
 
 [Le résultat](https://rohmerpauline.github.io/restaurant-css-framework/)
 
