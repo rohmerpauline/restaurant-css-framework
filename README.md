@@ -56,8 +56,6 @@ Quatrième jour :
 
 Pauline Rohmer
 
-Projet réalisé dans le cadre de la formation développeur web chez [BeCode](https://becode.org/)
-
 
 ## Copyrights :
 
@@ -78,3 +76,6 @@ Images [Unsplash](https://unsplash.com)
 * Photo by [Alex Harvey](https://unsplash.com/@alexharvey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 
 Logo réalisé sur [Canva](https://canva.com)
+
+
+**Projet réalisé dans le cadre de la formation développeur web chez [BeCode](https://becode.org/)**
